@@ -1,2 +1,2 @@
-encabezado-iniciar.html
+encabezado-iniciar
   
